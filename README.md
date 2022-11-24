@@ -29,8 +29,8 @@ $ docker run -e token=<your-bot-token> -e clientId=<your-bot-client-id> <your-us
 ```
 
 # Support (what this template is capable of)
-[x] Command Support.
-[x] Sub Command Support.
-[] Sub-Sub Command (command group) Support.
-[] Button Support.
-[] Development Mode (local command registration in dev).
+- [x] Command Support.
+- [x] Sub Command Support.
+- [ ] Sub-Sub Command (command group) Support.
+- [ ] Button Support.
+- [ ] Development Mode (local command registration in dev).
